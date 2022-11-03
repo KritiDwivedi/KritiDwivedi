@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KritiDwivedi
+- 💻 Check out my portfolio website at https://kritidwivedi.github.io/My-Portfolio/
 - 👀 I’m interested in development (still developing my skills).
 - 👨‍💻 Always excited to build something for the betterment of the society.
 - 🌱 I’m currently learning web and app development.
